@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    color: #FF6B40;
+    background-color: aqua;
+}
+
+#mainJogo {
+    border:1px solid #000000;
+    display: block;
+}
+
+#controles {
+    position: absolute;
+}
+
+#controles [type='text']{
+    position: relative;
+    left: 30%;
+    right: 30%;
+    text-align: center;
+}
